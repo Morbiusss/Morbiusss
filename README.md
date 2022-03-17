@@ -45,17 +45,11 @@
 
 
 
-<a href="https://instagram.com/anoopthedev">
+<a href="https://instagram.com/ay_ush__tiwari">
   <img align="middle" width="40px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>
 </a>
-<a href="https://discord.gg/CxeZaCkXpm">
-  <img align="middle" width="40px"
-  src="https://img.icons8.com/dusk/50/000000/discord-logo.png">
-</a>
 <br>
-</br>
-<img align="middle" src="https://discord.c99.nl/widget/theme-3/625640024335056897.png">
-<br>
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Punyakrit&style=flat-square)
