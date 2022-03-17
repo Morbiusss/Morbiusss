@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punyakrit Singh Makhni</h1>
+<h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 <div align="center">
 <br>
@@ -9,12 +9,12 @@
   <h2>  Stats Area :
   <br>
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Punyakrit&theme=tokyonight" alt="Punyakrit" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Morbiusss&theme=tokyonight" alt="Morbiusss" /></p>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Punyakrit&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Morbiusss&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
 
 
-  ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Punyakrit&show_icons=true&theme=tokyonight)
+  ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morbiusss&show_icons=true&theme=tokyonight)
 
   
 
