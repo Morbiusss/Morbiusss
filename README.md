@@ -14,7 +14,8 @@
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Morbiusss&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
 
 
-  ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morbiusss&show_icons=true&theme=tokyonight)
+![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morbiusss&show_icons=true&theme=tokyonight&hide=jupyter%20notebook)
+
 
   
 
